@@ -1,2 +1,4 @@
 # Get_course
-Hello 
+Hello  
+
+##project notes
